@@ -1,2 +1,2 @@
 # prework-study-guide
-Baby's first repository
+Baby's first repository. Assignment for UNC bootcamp.
